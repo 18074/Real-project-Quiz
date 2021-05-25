@@ -250,7 +250,10 @@ class Last:
         self.last_box.destory()
         root.withdraw()
 
-
+    def lastscreen(self):
+      root.withdraw()
+      name=names[0]
+      
 
 
     
